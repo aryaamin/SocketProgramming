@@ -21,7 +21,7 @@ A path to a configuration file, which will include the following. See sample fil
 <ul>
   <li>
 Client ID and port on which it is ready to listen for incoming connections
-    <\li>
+    </li>
       <li>
 A list of immediate neighbors and the ports they are listening on. The client is supposed to have direct connections with these neighbors for search purposes.
       </li>
